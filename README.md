@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rushikesh Landkar 👋
 
 => 🧍 I'm a passionate Front-end Developer.
 
