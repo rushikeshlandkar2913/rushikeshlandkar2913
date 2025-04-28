@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**rushikeshlandkar2913/rushikeshlandkar2913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=> 🧍 I'm a passionate Front-end Developer.
 
-Here are some ideas to get you started:
+- 💡 I’m currently working on:
+  Some Front-end Projects.
+  
+- 📕 I’m currently learning:
+  Next.js, Redux toolkit.
+  
+- 💼 I’m looking for:
+  Front-end Developer Job.
+  
+- 📫 How to reach me: rushikeshlandkar2913@gmail.com
+  
+- ⚡ Fun fact:
+ I turn coffee into code and ideas into stories!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages and Tools:
