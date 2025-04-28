@@ -15,5 +15,3 @@
   
 - ⚡ Fun fact:
  I turn coffee into code and ideas into stories!
-
-## 🚀 Languages and Tools:
